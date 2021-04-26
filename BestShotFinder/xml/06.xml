@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Logs>
+  <Log Trials="1">
+    <FilesLen>12</FilesLen>
+    <SelectImageNum>1</SelectImageNum>
+    <Method>ImageSlider</Method>
+    <TimeLapse>26.1016859s</TimeLapse>
+    <SaveMethod>SelectMove</SaveMethod>
+    <WindowSize>Original</WindowSize>
+  </Log>
+  <Log Trials="2">
+    <FilesLen>7</FilesLen>
+    <SelectImageNum>2</SelectImageNum>
+    <Method>Pickup</Method>
+    <TimeLapse>31.6878012s</TimeLapse>
+    <SaveMethod>SelectMove</SaveMethod>
+    <WindowSize>Original</WindowSize>
+  </Log>
+</Logs>
